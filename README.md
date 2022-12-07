@@ -1,70 +1,117 @@
-# azamibot-md-multi
-
-<a href="https://github.com/clicknetcafe/azamibot-md-multi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/clicknetcafe/azamibot-md-multi?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/clicknetcafe/azamibot-md-multi/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/clicknetcafe/azamibot-md-multi?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/clicknetcafe/azamibot-md-multi/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/clicknetcafe/azamibot-md-multi?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/clicknetcafe/azamibot-md-multi/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/clicknetcafe/azamibot-md-multi?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/clicknetcafe/azamibot-md-multi/issues"><img title="Issues" src="https://img.shields.io/github/issues/clicknetcafe/azamibot-md-multi?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/clicknetcafe/azamibot-md-multi/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/clicknetcafe/azamibot-md-multi?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/clicknetcafe/azamibot-md-multi/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/clicknetcafe/azamibot-md-multi?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/clicknetcafe/azamibot-md-multi/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/clicknetcafe/azamibot-md-multi?label=PullRequest&color=red&style=flat-square"></a>
-
-
-This Script is for everyone, original base by [`BochilGaming`](https://github.com/BochilGaming/games-wabot-md)
 
 <p align="center">
-      <img src="https://i.ibb.co/DR4vjVN/nother.jpg" width="55%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://github.com/AyGemuy.png?size=500" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
+
+
+</p>
+<h1 align="center">HinataBot - MD</h1>
+<p align="center">
+  <a href="https://github.com/AyGemuy/HinataBot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=HinataBot+Wudysoft+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Wudysoft;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
-If you want to add Node Modules manually, download here : [`node_modules`](https://cutt.ly/azamibot-md-modules)
+<p align="center">
+ <a href="#"><img title="HinataBot" src="https://img.shields.io/badge/HinataBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-Wudysoft-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+<a href="https://github.com/AyGemuy/HinataBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AyGemuy/HinataBot?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/AyGemuy/HinataBot/lwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/AyGemuy/HinataBot?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/AyGemuy/HinataBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/AyGemuy/HinataBot?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/AyGemuy/HinataBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/AyGemuy/HinataBot?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/AyGemuy/HinataBot/issues"><img title="Issues" src="https://img.shields.io/github/issues/AyGemuy/HinataBot?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/AyGemuy/HinataBot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/AyGemuy/HinataBot?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/AyGemuy/HinataBot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/AyGemuy/HinataBot?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/AyGemuy/HinataBot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/AyGemuy/HinataBot?label=PullRequest&color=red&style=flat-square"></a>
 
-This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+---------
+## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+  <a href="https://wa.me/6282195322106">
+    <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://tiktok.com/@upload_file">
+    <img align="left" alt="Wudysoft | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://instagram.com/wudysoft">
+    <img align="left" alt="Wudysoft | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:wudysoft@mail.com">
+    <img align="left" alt="Wudysoft | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+---------
 
-## Join Group Minimalist ツ Sweet
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://cutt.ly/azamilaifu)
-**MAX BOT : 4**
+## ```Whatsapp``` <a href="https://wa.me/6282195322106"> <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285171216276) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282195322106) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI) 
+---------
 
+#### KELEBIHAN 📍
+| Kelebihan | Check |
+|--------|--------|
+| **Fast Respon** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **No Internet** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Simple** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Button template** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Multi Device** |[✔️](https://github.com/AyGemuy/HinataBot) |
+---------
+#### FITUR 📍
+| Fitur | Check |
+|--------|--------|
+| **Downloader** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Internet** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Game Rpg** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Nsfw** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Sticker** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Game** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Kerang Ajaib** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Quotes** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Anime** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Premium** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Tools** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Exec** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **React** |[✔️](https://github.com/AyGemuy/HinataBot) |
+---------
 
-#### - Support deploy to Heroku (Thx to Ibeng)
-#### - Should work with Railway (Thx to Ibeng)
+## `SETTING`
 
-#### Heroku Buildpack
+- Owner Number [Here](https://github.com/AyGemuy/HinataBot)
+- Owner Name [Here](https://github.com/AyGemuy/HinataBot)
+- Bot Name [Here](https://github.com/AyGemuy/HinataBot)
+---------
+
+## ```Heroku Buildpack```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
+
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-### FOR TERMUX USER
-1. Type mentioned below given commands one by one in Termux.
-```sh
+## TERMUX USER
+```bash
 $ pkg upgrade && pkg update
 $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ pkg install libwebp -y
-$ git clone https://github.com/clicknetcafe/azamibot-md-multi
-$ cd azamibot-md-multi
+$ git clone https://github.com/AyGemuy/HinataBot/
+$ cd HinataBot-master
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/clicknetcafe/azamibot-md-multi/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
-```sh
+If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
+```bash
 $ node .
 ```
-2. Wait for bot starting...
-3. Scan QR code from 2nd device. (Go to whatsapp > Linked Devices > Click on `link a device`)
-4. Now your bot is ready to rock n roll.
 
 #### If npm install failed, try using yarn instead of npm
-```sh
+```bash
 $ pkg install yarn -y
 $ yarn install
 ```
 ---------
 
-## INSTALL ON TERMUX WITH UBUNTU
-
-[ INSTALLING UBUNTU ]
+## TERMUX WITH UBUNTU
 
 ```bash
 apt update && apt full-upgrade
@@ -85,21 +132,21 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & GAMES-WABOT ]
+[ INSTALLING NODEJS & HinataBot]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/clicknetcafe/azamibot-md-multi
-cd azamibot-md-multi
+git clone https://github.com/AyGemuy/HinataBot/
+cd HinataBot-master
 npm install
 npm update
 ```
 
 ---------
 
-## FOR WINDOWS/VPS/RDP USER
+## FOR WINDOWS/VPS/RDP USER 💻
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
@@ -107,15 +154,15 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/clicknetcafe/azamibot-md-multi
-cd azamibot-md-multi
+git clone https://github.com/AyGemuy/HinataBot/
+cd HinataBot-master
 npm install
 npm update
 ```
 
 ---------
 
-## Run
+## Run 📛
 
 ```bash
 node .
@@ -123,71 +170,46 @@ node .
 
 ---------
 
-## Arguments `node . [--options] [<session name>]`
+## ```Arguments node . [--options] [<session name>]```
 
-### `--self`
+## `--self`
+* Activate self mode (Ignores other)
 
-Activate self mode (Ignores other)
+## `--pconly`
+* If that chat not from private bot, bot will ignore
 
-### `--pconly`
+## `--gconly`
+* If that chat not from group, bot will ignore
 
-If that chat not from private bot, bot will ignore
+## `--swonly`
+* If that chat not from status, bot will ignore
 
-### `--gconly`
-
-If that chat not from group, bot will ignore
-
-### `--swonly`
-
-If that chat not from status, bot will ignore
-
-### `--prefix <prefixes>`
-
+## `--prefix <prefixes>`
 * `prefixes` are seperated by each character
 Set prefix
 
-### `--server`
+## `--server`
+* Used for [heroku](https://heroku.com/) or scan through website
 
-Used for [heroku](https://heroku.com/) or scan through website
-
-### `--restrict`
-
-Enables restricted plugins (which can lead your number to be **banned** if used too often)
-
+## `--restrict`
+* Enables restricted plugins (which can lead your number to be **banned** if used too often)
 * Group Administration `add, kick`
 
-### `--img`
+## `--img`
+* Enable image inspector through terminal
 
-Enable image inspector through terminal
+## `--autoread`
+* If enabled, all incoming messages will be marked as read
 
-### `--autoread`
+## `--nyimak`
+* No bot, just print received messages and add users to database
 
-If enabled, all incoming messages will be marked as read
-
-### `--autocleartmp`
-
-If enabled, **tmp* folder contain files will be auto delete
-
-### `--nyimak`
-
-No bot, just print received messages and add users to database
-
-### `--test`
-
-**Development** Testing Mode
-
-### `--db`
-
-pass mongodb url or cloud url to connect to database, by the default it will connect to database.json
-
-### `--singleauth`
-
-you can convert single file auth to multiple file auth using this argument, it will convert if you have single file auth and folder multi auth is empty (creds.json is not exist)
+## `--test`
+* **Development** Testing Mode
 
 ---------
 
-## FAQ
-### How to send button image?
+## ```How To Customise Message Display```
 ```js
 // Syntax
 conn.sendButton(
@@ -201,82 +223,43 @@ conn.sendButton(
 )
 
 // example 
-conn.sendButton(m.chat, 'Hello world!', '@clicknetcafe', null, [
+conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
       ['Hello', 'hello'], ['Bye', 'bye']
 ])
 // example button location
-conn.sendButton(m.chat, 'Hello world!', '@clicknetcafe', 'https://github.com/clicknetcafe', 
+conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
       [['Hello', 'hello'], ['Bye', 'bye']], 
       null, { asLocation: true }
 )
 ```
-
-### Why my plugins not working in this multi-device?
-      
-> Please cek syntax error on your plugins. and maybe your script still using CJS
-> This multi-device script use ESM and CJS [(legacy code)](https://github.com/clicknetcafe/azamibot-md-multi/tree/main) not support yet. Learn more about [ESM](https://nodejs.org/api/esm.html)
-
-### How to delete session?
-
-> You can delete folder `sessions` or run command ```rm -rf sessions```
-
-### Why i can't scan qr code?
-
-> if your error like this ```(node:7016) UnhandledPromiseRejectionWarning: TypeError [ERR_INVALID_ARG_TYPE]: The "key" argument must be of type string or an instance of Buffer, TypedArray, DataView, or KeyObject. Received undefined``` you can use [multi-device branch](https://github.com/clicknetcafe/azamibot-md-multi/tree/multi-device)
-
-### How to change owner number?
-
-> You can change in `config.js`, on global.owner. make sure you use correct syntax.
-```js
-global.owner = [
-  ['6282337245566', 'Clicknetcafe', true]
-]
-```
-> First argument on array is number like `6282337245566`, second argument is name like `BG` (if this argument pass, if using `owner` command, this number will send as owner), third argument is developer like `true` (if this argument pass, if there have plugins error (not syntax error) the error will send to developer)
-
-
-### How to read folder in folder plugins as plugin file?
-> change option `'recursiveRead'` to `'true'` in file main.js in `loadPluginFiles` function
-
-
 ---------
 
-### want to contribute?
-1. fork this repository
-2. Change/edit/create what you want. for example you can add features, fix bug, etc
-3. **test** before making a pull req!!
-4. make a pull req!
-5. if your pull req is already in **acc/merge**, you can delete your branch or you can create pull req again :)
+### 📮 S&K
+1. Jangan diperjual belikan Script ini
+2. Sebelum pakai jangan lupa kasih star
+3. Follow Github !
+4. Jangan salah gunakan script ini!
+5. Jangan lupa Subscribe Youtube
+6. Jika ada eror di sc hub Wudysoft
 
 ---------
 
 
-### Thanks To 
-**Allah SWT**,
+## ```Thanks to ✨```
+* [`Allah SWT`](https://github.com/AyGemuy/HinataBot)
+* [`My parents`](https://github.com/AyGemuy/HinataBot)
+* [`All Friends`](https://github.com/AyGemuy/HinataBot)
+* [`All Contributors`](https://github.com/AyGemuy/HinataBot)
+* [`All Creator Bot`](https://github.com/AyGemuy/HinataBot)
+* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`Nurutomo`](https://github.com/nurutomo)
+* [`BochilGaming`](https://github.com/bochilgaming)
 
-**Orang Tua**,
+## ```Recode By 💌```
+[![HinataBot](https://github.com/AyGemuy.png?size=100)](https://github.com/AyGemuy/HinataBot)
 
-**Semua yang selalu mendukung**
-
-
-#### Special Thanks to
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-
-#### Contributor
-[![Adiixyz](https://github.com/Adiixyz.png?size=100)](https://github.com/Adiixyz)
-[![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot)
-[![BlueShiYT](https://github.com/BlueShiYT.png?size=100)](https://github.com/BlueShiYT)
-[![zatu22](https://github.com/zatu22.png?size=100)](https://github.com/zatu22)
-[![unx21](https://github.com/unx21.png?size=100)](https://github.com/unx21)
-[![botstylee](https://github.com/botstylee.png?size=100)](https://github.com/botstylee)
-[![Jauhariq](https://github.com/Jauhariq.png?size=100)](https://github.com/Jauhariq)
-[![Nobuyaki](https://github.com/Nobuyaki.png?size=100)](https://github.com/Nobuyaki)
-[![Aiinne](https://github.com/Aiinne.png?size=100)](https://github.com/Aiinne)
-[![arisawali2014](https://github.com/arisawali2014.png?size=100)](https://github.com/arisawali2014)
-[![ryznxx](https://github.com/ryznxx.png?size=100)](https://github.com/ryznxx)
-[![ZeroChanBot](https://github.com/ZeroChanBot.png?size=100)](https://github.com/ZeroChanBot)
-[![Bintangp02](https://github.com/Bintangp02.png?size=100)](https://github.com/Bintangp02)
-[![itsmeR1F4I](https://github.com/itsmeR1F4I.png?size=100)](https://github.com/itsmeR1F4I)
-[![DineshValor](https://github.com/DineshValor.png?size=100)](https://github.com/DineshValor)
-[![TeamMars20](https://github.com/TeamMars20.png?size=100)](https://github.com/TeamMars20)
+## ```Contributor 📣```
+* [`The.Sad.Boy01`](https://github.com/Kangsad01)
+* [`AmirulDev20`](https://github.com/amiruldev20)
+* [`Rasel Comel`](https://github.com/raselcomel)
+* [`Rominaru`](https://github.com/rominaru)
