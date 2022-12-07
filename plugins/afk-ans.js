@@ -1,4 +1,4 @@
-export function before(m) {
+export async function before(m) {
     let user = global.db.data.users[m.sender]
     if (user.afk > -1) {
         let caption = `
